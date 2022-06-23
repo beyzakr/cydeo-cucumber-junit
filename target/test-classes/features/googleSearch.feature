@@ -7,7 +7,7 @@ Feature: Google search functionality
     Then user should see tittle is Google
 
 
-@wip
+
     Scenario: Search functionality result title verification
       Given user is on Google search page
       When user types apple and clicks enter
